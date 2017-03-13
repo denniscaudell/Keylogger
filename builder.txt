@@ -1,0 +1,1 @@
+C:\Users\VSpectrum\PycharmProjects\keylogapp>C:\Python27_64\python setup.py py2exe
