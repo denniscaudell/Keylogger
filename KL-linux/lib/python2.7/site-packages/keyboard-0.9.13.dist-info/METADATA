@@ -1,0 +1,12 @@
+Metadata-Version: 2.0
+Name: keyboard
+Version: 0.9.13
+Summary: Hook and simulate keyboard events on Windows and Linux
+Home-page: https://github.com/boppreh/keyboard
+Author: BoppreH
+Author-email: boppreh@gmail.com
+License: MIT
+
+keyboard
+
+
